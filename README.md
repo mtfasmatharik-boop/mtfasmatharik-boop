@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Fathima Asma M.T</h1>
 <p align="center">Undergraduate Software Engineering Student | Web Development Enthusiast</p>
 
@@ -62,6 +58,27 @@ A travel guide website created as part of university coursework.
   <img src="https://github-readme-stats.vercel.app/api?username=mtfasmatharik-boop&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfasmatharik-boop&layout=compact&theme=tokyonight" height="160px"/>
 </p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mtfasmatharik-boop&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfasmatharik-boop&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtfasmatharik-boop&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- Contribution Snake -->
+  ![snake gif](https://github.com/mtfasmatharik-boop/mtfasmatharik-boop/blob/output/github-contribution-grid-snake.svg)
+</p>
+
 
 ---
 

@@ -42,6 +42,8 @@ A travel guide website created as part of university coursework.
 
 ## 🎓 Certificates
 
+### ✔️ Introduction to Web Development – Morattuwa University
+<img src="web development.png" width="500px">
 
 ---
 

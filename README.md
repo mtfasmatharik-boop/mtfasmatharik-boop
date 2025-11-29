@@ -51,8 +51,8 @@ A travel guide website created as part of university coursework.
 
 ## 📚 Currently Learning
 - Web development   
-- Improving frontend skills  
-- Python for backend  
+- Improving backend skills  
+- JavaScript 
 - Git & version control  
 
 ---

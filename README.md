@@ -41,7 +41,7 @@ A travel guide website created as part of university coursework.
 ---
 
 ## 🎓 Certificates
-- Add your certificates here (I can format them nicely if you send the list)
+
 
 ---
 

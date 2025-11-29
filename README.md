@@ -1,4 +1,86 @@
-## Hi there 👋
+
+
+
+
+<h1 align="center">Hi 👋, I'm Fathima Asma M.T</h1>
+<p align="center">Undergraduate Software Engineering Student | Web Development Enthusiast</p>
+
+---
+
+## 👩‍💻 About Me
+I’m an undergraduate Software Engineering student at **Sabaragamuwa University of Sri Lanka**, passionate about **web development**, problem-solving, and continuous learning.
+
+---
+
+## 🚀 Tech Stack
+
+### **Frontend**
+- HTML  
+- CSS  
+
+### **Backend**
+- Python  
+
+### **Database**
+- MySQL  
+
+### **Tools**
+- VS Code  
+- Git  
+
+---
+
+## 📘 Projects
+
+### 🔹 **Portfolio Website**  
+A personal portfolio showcasing my skills, projects, and achievements.
+
+### 🔹 **University Travel Project**  
+A travel guide website created as part of university coursework.
+
+---
+
+## 🎓 Certificates
+- Add your certificates here (I can format them nicely if you send the list)
+
+---
+
+## 📚 Currently Learning
+- Web development   
+- Improving frontend skills  
+- Python for backend  
+- Git & version control  
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtfasmatharik-boop&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfasmatharik-boop&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="mailto:mtfasmatharik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/asmatharik">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/mtfasmatharik-boop">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thank you for visiting my profile!
+</p>
+
+
 
 <!--
 **mtfasmatharik-boop/mtfasmatharik-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

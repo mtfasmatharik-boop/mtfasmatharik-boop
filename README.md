@@ -43,7 +43,9 @@ A travel guide website created as part of university coursework.
 ## 🎓 Certificates
 
 ### ✔️ Introduction to Web Development – Morattuwa University
-<img src="web development.png" width="500px">
+<img src="https://github.com/mtfasmatharik-boop/mtfasmatharik-boop/blob/main/web%20development.jpeg?raw=true" width="500px">
+
+
 
 ---
 
